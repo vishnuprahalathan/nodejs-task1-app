@@ -34,4 +34,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.vishnuprahalathan1#gmail.com }}/nodejs-task1.app:latest
+        tags: ${{ secrets.vishnuprahalathan1@gmail.com }}/nodejs-task1.app:latest
